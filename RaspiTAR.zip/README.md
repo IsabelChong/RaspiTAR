@@ -10,4 +10,4 @@ to take the attendance records of students via face recognition using the PiCame
 Creators: Isabel Chong (IsabelChong.CYJI@gmail.com) Tan Xin Shi (XinShi2001@gmail.com)
 
 client_key.json is not present in the board as it contains confidential google credentials. 
-Please use your own should you need to use this app.
+To run the code, this file must be present.
