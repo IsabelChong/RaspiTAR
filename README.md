@@ -1,8 +1,10 @@
 ### RaspiTAR 🍒
 RaspiTAR stands for Raspberyy-Pi based Temperature Attendance Recorder. 
-This project was innovated due to the The objective of this project is to first reduce the cost of 
-temperature crowd screening systems, using MLX90641 Thermal Sensor Array. It can also
-record the attendance of students via face recognition using the PiCamera V2.1.
+The objective of this project is to first reduce the cost of 
+temperature crowd screening systems and enhance school attendance record
+systems in light of the pandemic.
+Some specific hardware used includes the MLX90641 Thermal Sensor Array and PiCamera V2.1.
+
 
 ### Creators 👧🏻 👧🏻
 Isabel Chong (IsabelChong.CYJI@gmail.com) 
