@@ -6,7 +6,7 @@ systems in light of the pandemic.
 
 <p><a href = "https://github.com/IsabelChong/RaspiTAR/blob/main/PB14_BPD%20Report_SafeAssign.pdf">Click here to view my Final Project Report if you are interested!</a></p>
 
-Features:
+### Features 🦫
 - Coded in Python, with the Raspberry Pi 4 Model B.
 - OpenCV + Amazon Rekognition System + Amazon S3 + Haar Cascade for smart facial recognition attendance, even with masks on.
 - Custom 3D printed casing designed using SolidWorks Rx 2019, and printed using Ultimaker.
