@@ -4,7 +4,7 @@ The objective of this project is to first reduce the cost of
 temperature crowd screening systems and enhance school attendance record
 systems in light of the pandemic.
 
-<p><a href = "">Click here to view my Final Project Report if you are interested!</a></p>
+<p><a href = "https://github.com/IsabelChong/RaspiTAR/blob/main/PB14_BPD%20Report_SafeAssign.pdf">Click here to view my Final Project Report if you are interested!</a></p>
 
 Features:
 - Coded in Python, with the Raspberry Pi 4 Model B.
