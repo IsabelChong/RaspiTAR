@@ -1,5 +1,5 @@
 ### RaspiTAR 🍒
-RaspiTAR stands for Raspberyy-Pi based Temperature Attendance Recorder. 
+RaspiTAR stands for Raspbery-Pi based Temperature Attendance Recorder. 
 The objective of this project is to first reduce the cost of 
 temperature crowd screening systems and enhance school attendance record
 systems in light of the pandemic.
